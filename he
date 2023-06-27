@@ -1,0 +1,44 @@
+// import 'package:flutter/material.dart';
+
+// class Screen1 extends StatelessWidget {
+//   const Screen1({super.key});
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return Column(
+//       mainAxisAlignment: MainAxisAlignment.center,
+//       children: [
+//         const Center(
+//           child: Text(
+//             'notification',
+//             style: TextStyle(fontSize: 20),
+            
+//           ),
+//         ),
+//         const SizedBox(
+//           height: 50,
+//         ),
+//         Row(
+//           mainAxisAlignment: MainAxisAlignment.center,
+//           children: [
+//             ElevatedButton(
+//               onPressed: () {},
+//               child: const Text(
+//                 'Increment',
+//               ),
+//             ),
+//             const SizedBox(
+//               width: 30,
+//             ),
+//             ElevatedButton(
+//               onPressed: () {},
+//               child: const Text(
+//                 'Decrement',
+//               ),
+//             ),
+//           ],
+//         )
+//       ],
+//     );
+//   }
+// }
