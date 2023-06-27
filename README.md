@@ -1,16 +1,27 @@
-# software_kernal_project
+# Persistent Navigation Bar
 
-A new Flutter project.
+A simple persistent navigation bar
 
-## Getting Started
+## Demo Video
+https://youtu.be/hk6GATZaPmg
 
-This project is a starting point for a Flutter application.
+## Installation
+Clone the git repository:
+```bash
+git clone git@github.com:Prathu29/Persistent_navigation_bar.git .
+```
+install the necessary package:
+```bash
+flutter pub add persistent_bottom_nav_bar
+```
 
-A few resources to get you started if this is your first Flutter project:
+run on selected emulator:
+```bash
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture2](https://github.com/Prathu29/Persistent_navigation_bar/assets/89243760/d5f72309-198e-4889-8462-c4bbbc0c95f4)
+
+![capture3](https://github.com/Prathu29/Persistent_navigation_bar/assets/89243760/427e5ca3-f46a-492f-947e-73c3db21e0fe)
